@@ -1,0 +1,6 @@
+{
+  "name": "سينما هاب - منصة المسلسلات والمشغلات",
+  "description": "منصة بث ومسلسلات مترجمة مع مشغلات خارجية متعددة، أماكن إعلانية، ولوحة تحكم لإدارة الحلقات والروابط",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
